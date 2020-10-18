@@ -1,4 +1,10 @@
-
 body{
-	background-image:url(<https://cdn.optipic.io/site-539/upload/iblock/acf/acfcfe1fab66d2f4c9f3fb8531a2741b.jpg>)
+	background-image:url(https://author.today/content/2020/06/05/99d46449fa194f06bae8a74b24475210.jpg)
 	} 
+h1{
+	text-align: center;
+}
+a{
+	color: #FFC1C1;
+    fallback: cursive;
+}
